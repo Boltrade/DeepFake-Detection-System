@@ -14,7 +14,10 @@ cd deepfake-detection
 ### 2. Set Up Environment
 Install required packages: **pip install -r requirements.txt**
 
-### 3. Train the Model
+### 3. Train the Model by downloading real and fake images samples(you can get from kaggle.com)
+To train the model: **python train.py**
+
+### 4. To predict the model
 To predict whether an image is real or fake: **python predict.py path_to_image.jpg**
 
 ### Output will be:
