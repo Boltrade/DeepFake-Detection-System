@@ -23,7 +23,7 @@ Install required packages: pip install -r requirements.txt
 ### 3. Prepare Dataset
 Create the following structure inside the data/ folder:
 
-data/
+##### data/
 ├── real/
 │   ├── real1.jpg
 │   └── ...
@@ -33,9 +33,9 @@ data/
 
 Make sure you have a good number of real and fake images.(You can get it from Kaggle).
 
-## 4. Train the Model
+### 4. Train the Model
 To predict whether an image is real or fake: python predict.py path_to_image.jpg
-Output will be:
+##### Output will be:
 Prediction: Real
-or
+##### or
 Prediction: Fake
