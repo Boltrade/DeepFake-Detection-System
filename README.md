@@ -7,7 +7,8 @@ A simple deep learning project to detect deepfakes using Convolutional Neural Ne
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Boltrade/deepfake-detection.git
+git clone https://github.com/Boltrade/DeepFake-Detection-System
+.git
 cd deepfake-detection
 ```
 ### 2. Set Up Environment
