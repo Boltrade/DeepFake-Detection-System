@@ -16,7 +16,7 @@ deepfake_detection/ │ ├── data/ # Dataset folder │ ├── real/ # R
 ```bash
 git clone https://github.com/Boltrade/deepfake-detection.git
 cd deepfake-detection
-
+```
 ### 2. Set Up Environment
 Install required packages: pip install -r requirements.txt
 
