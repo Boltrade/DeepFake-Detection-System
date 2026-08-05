@@ -1,8 +1,8 @@
-# 🕵️‍♂️ Deepfake Detection from Images
+# Deepfake Detection from Images
 
 A simple deep learning project to detect deepfakes using Convolutional Neural Networks (CNN). This model takes an image as input and predicts whether it's **Real** or **Fake**.
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the Repository
 
