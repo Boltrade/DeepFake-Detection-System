@@ -21,6 +21,4 @@ To train the model: **python train.py**
 To predict whether an image is real or fake: **python predict.py path_to_image.jpg**
 
 ### Output will be:
-Prediction: Real
-or
-Prediction: Fake (with accuracy above 90%).
+Prediction: Real / Fake (with accuracy above 90%).
