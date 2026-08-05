@@ -23,4 +23,4 @@ To predict whether an image is real or fake: **python predict.py path_to_image.j
 ### Output will be:
 Prediction: Real
 or
-Prediction: Fake
+Prediction: Fake (with accuracy above 90%).
